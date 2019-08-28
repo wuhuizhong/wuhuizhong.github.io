@@ -3,22 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nextcloud.com/categories/</loc>
-    <priority>0</priority>
+    <loc>https://wuhuizhong.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://nextcloud.com/changelog/</loc>
+    <loc>https://wuhuizhong.github.io/changelog/</loc>
   </url>
   
   <url>
-    <loc>https://nextcloud.com/</loc>
-    <priority>0</priority>
+    <loc>https://wuhuizhong.github.io/</loc>
   </url>
   
   <url>
-    <loc>https://nextcloud.com/tags/</loc>
-    <priority>0</priority>
+    <loc>https://wuhuizhong.github.io/tags/</loc>
   </url>
   
 </urlset>
